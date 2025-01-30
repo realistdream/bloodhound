@@ -24,7 +24,7 @@ You can install the required modules using pip:
 
 *Usage*
 
-1. bash python DEVICEFINDER01.py <target_ip>
+ > bash python DEVICEFINDER01.py <target_ip>
 
 -- <target_ip>: The target IP range or individual IP address for scanning. The range should be specified in CIDR notation (e.g., 192.168.1.1/24).
 
