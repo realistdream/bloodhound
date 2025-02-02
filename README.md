@@ -53,6 +53,9 @@ The result will be a table displaying each responding device's IP, MAC address, 
 *Error Handling*
 Vendor Lookup Failure: If the vendor lookup fails for a device, the script records "Unknown" for its vendor.
 
+*Disclosure*
+
+This program is to be used for educational purposes ONLY! Do not deploy in network environments you do not own. 
 
 License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
